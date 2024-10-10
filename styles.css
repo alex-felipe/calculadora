@@ -37,11 +37,12 @@ button {
     border: none;
     border-radius: 5px;s
     background-color: #000;
-    color: white;
+    color: #000;
     cursor: pointer;
     transition: background-color 0.3s;
 }
 
 button:hover {
     background-color: #0056b3;
+	color: #fff;
 }
